@@ -1,7 +1,6 @@
 ### Hi there! I'm Jiwon 👋
 
 🌱 I’m currently learning ...
-### Skills
 [![Build Status](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)](https://travis-ci.org/joemccann/dillinger) [![Build Status](https://img.shields.io/badge/Swift-orange?style=flat-square&logo=Swift&logoColor=white)](https://travis-ci.org/joemccann/dillinger)
 [![Build Status](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)](https://travis-ci.org/joemccann/dillinger)
 
