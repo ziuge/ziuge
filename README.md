@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&customColorList=2,3,5,6,7&height=300&section=header&text=Jiwon%20Choi&fontSize=90)
+
 ### Hi there! I'm Jiwon 👋
 
 🌱 I’m currently learning ...
