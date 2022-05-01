@@ -7,8 +7,6 @@
 [![Build Status](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)](https://travis-ci.org/joemccann/dillinger)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ziuge)](https://git.io/streak-stats)
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziuge)](https://github.com/anuraghazra/github-readme-stats)
 
