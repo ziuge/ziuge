@@ -16,7 +16,7 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ziuge)](https://velog.io/@ziuge)
 
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={eraser-adventure}&theme={default})](https://eraser-adventure.tistory.com/category)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=eraser-adventure&postId=57&theme=default)](https://eraser-adventure.tistory.com/category)
 
 
 
