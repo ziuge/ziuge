@@ -21,8 +21,7 @@
   <a href="https://velog.io/@ziuge"><img src="https://img.shields.io/badge/ziuge.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a> <a href="https://eraser-adventure.tistory.com"><img src="https://img.shields.io/badge/eraser-adventure-000000?style=flat-square&logo=Blogger&logoColor=white"/></a> 
   
   <br>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziuge)](https://github.com/ziuge/github-readme-stats)
+
   
 </div>
 
