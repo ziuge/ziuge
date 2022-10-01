@@ -4,7 +4,7 @@
   <!--img align="right" src="https://github-readme-stats.vercel.app/api?username=ziuge"/-->
   
   
-# Jiwon
+# Jiwon Choi
 
   🧑‍💻 I’m currently learning ...
 [![Build Status](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)](https://travis-ci.org/joemccann/dillinger) [![Build Status](https://img.shields.io/badge/Swift-orange?style=flat-square&logo=Swift&logoColor=white)](https://travis-ci.org/joemccann/dillinger)
