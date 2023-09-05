@@ -9,15 +9,10 @@
 <a href=mailto:ziugechoi@gmail.com><img src="https://img.shields.io/badge/ziugechoi@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://eraser-adventure.tistory.com"><img src="https://img.shields.io/badge/eraser-adventure-000000?style=flat-square&logo=Blogger&logoColor=white"/></a> 
 
-✋ Hi! I'm Jiwon, iOS developer!
-
-
+🍎 iOS developer
 
 <br>
-<br>
 
-
-### 💪 Skills
 **Languages**
 
 [![Build Status](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)](https://travis-ci.org/joemccann/dillinger) [![Build Status](https://img.shields.io/badge/Swift-orange?style=flat-square&logo=Swift&logoColor=white)](https://travis-ci.org/joemccann/dillinger)
